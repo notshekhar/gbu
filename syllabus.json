@@ -1,0 +1,26 @@
+[{
+    "school": "School of Management(SoM)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Information and Communication(SoICT)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Engineering(SoE)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Vocational Studies and Applied Science(SoVSAS)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Humanities and Social Science(SoHSS)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Buddhist Studies and Civilization(SoBSC)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Law, Justice and Governance(SoLJG)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  },{
+    "school": "School of Biotechnology(SoBT)",
+    "syl": ["Subject Awareness", "Research Methodology"]
+  }
+]
