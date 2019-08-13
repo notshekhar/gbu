@@ -134,6 +134,7 @@ body{
   color: white;
   background: #1a73e8;
   border-radius: 65px;
+  transition: all 1s;
 }
 a{
   display: list-item;
